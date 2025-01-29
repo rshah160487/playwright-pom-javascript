@@ -1,6 +1,6 @@
 # 🎭 Playwright POM JavaScript Automation
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/rshah160487/playwright-pom-javascript/playwright.yml?branch=main)
+![GitHub Workflow Status](https://github.com/rshah160487/playwright-pom-javascript/actions/workflows/playwright.yml/badge.svg)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-blue)
 
 ## 🚀 Overview
