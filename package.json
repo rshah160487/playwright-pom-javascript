@@ -1,0 +1,21 @@
+{
+  "name": "e2e_playwright_automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.9",
+    "prettier": "^3.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
